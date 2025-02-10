@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=gruvbox)
+![Chaher's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
