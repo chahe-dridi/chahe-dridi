@@ -9,6 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
 </picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false)<br/>
