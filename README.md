@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hey there! I'm Chaher Dridi ✨</h1>
-<h3 align="center">🚀 Future Software Engineer | 🎓 ESPRIT Student | 💡 Tech Enthusiast & Innovator</h3>
+<h1 align="center">✨ Hey there! I'm Dridi Chaher ✨</h1>
+<h3 align="center">🚀 Future Software Engineer (TWIN)| 🎓 ESPRIT Student | 💡 Tech Enthusiast & Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chahe-dridi&label=Profile%20views&color=ff69b4&style=flat-square" alt="chahe-dridi" />
