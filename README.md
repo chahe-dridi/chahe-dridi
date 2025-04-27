@@ -1,5 +1,3 @@
-
-
 <h1 align="center">✨ Hey there! I'm Chaher Dridi ✨</h1>
 <h3 align="center">🚀 Future Software Engineer | 🎓 ESPRIT Student | 💡 Tech Enthusiast & Innovator</h3>
 
@@ -11,15 +9,15 @@
 
 ### 🌟 About Me
 
-🎓 I’m a 2nd-year engineering student at **ESPRIT**, specializing in **Software Architecture Engineering (TWIN option)**  
-🔍 Currently exploring: `MERN Stack`, `DevOps`, `Microservices`  
+🎓 I’m a 2nd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
+🔧 Skilled in: `Node.js`, `Express.js`, `React`, `MongoDB`, `Docker`, `DevOps`, `Microservices Architecture`  
 🤝 Open to: **Open-source collaboration**, **Hackathons**, and **Freelance projects**  
-💬 Ask me about: `Node.js`, `React`, `MongoDB`, `Docker`, `Kubernetes`, `Agile`, `Microservices Architecture`  
+💬 Ask me about: `Web Development`, `Backend Development`, `DevOps Practices`, `Cloud Deployment`, `Microservices Design`, `Agile Methodologies`  
 👑 Chair of **ACM ESPRIT Student Chapter**  
 📬 Contact me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chaher-dridi)  
 🔗 linkedin.com/in/chaher-dridi  
-✉️ chaherdridi@esprit.tn | [your personal email if you want to add it]
+✉️ chaherdridi@esprit.tn
 
 ---
 ## 🌐 Socials:
