@@ -15,7 +15,6 @@
 💬 Ask me about: `Web Development`, `Backend Development`, `DevOps Practices`, `Cloud Deployment`, `Microservices Design`, `Agile Methodologies`  
 👑 Chair of **ACM ESPRIT Student Chapter**  
 📬 Contact me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chaher-dridi)  
 🔗 linkedin.com/in/chaher-dridi  
 ✉️ chaherdridi@esprit.tn
 
