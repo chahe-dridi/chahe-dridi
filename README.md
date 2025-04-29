@@ -8,13 +8,13 @@
 ---
  
 ### 🌟 About Me
-
-🎓 I’m a 2nd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
-🔧 Skilled in: `Node.js`, `Express.js`, `React`, `MongoDB`, `Docker`, `DevOps`, `Microservices Architecture`  
-🤝 Open to: **Open-source collaboration**, **Hackathons**, and **Freelance projects**  
-💬 Ask me about: `Web Development`, `Backend Development`, `DevOps Practices`, `Microservices Design`, `Agile Methodologies`  
-👑 Chair of **ACM ESPRIT Student Chapter**  
-📬 Contact me:  
+🎓 I’m a 2nd-year Software Engineering student at ESPRIT, specializing in Web and Internet Technologies (TWIN)
+🔧 Skilled in: Node.js, Express.js, React, MongoDB, Docker, DevOps, Microservices Architecture, UX/UI Design
+🎨 Passionate about creating user-centric designs and seamless digital experiences
+🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects
+💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design
+👑 Chair of ACM ESPRIT Student Chapter
+📬 Contact me:
 ✉️ chaherdridi@esprit.tn
 
 ---
