@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Future+Software+Engineer+(TWIN);🎓+ESPRIT+Student;💡+Tech+Enthusiast+%26+Innovator;📬+Chair+of+ACM+ESPRIT+Student+Chapter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Future+Software+Engineer+(TWIN);🎓+ESPRIT+Student" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Chair+of+ACM+ESPRIT+Student+Chapter" alt="Typing SVG" />
+</p>
+
 
 
 
@@ -11,14 +16,16 @@
 ---
  
 ### 🌟 About Me
-🎓 I’m a 2nd-year Software Engineering student at ESPRIT, specializing in Web and Internet Technologies (TWIN)
-🔧 Skilled in: Node.js, Express.js, React, MongoDB, Docker, DevOps, Microservices Architecture, UX/UI Design
-🎨 Passionate about creating user-centric designs and seamless digital experiences
-🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects
-💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design
-👑 Chair of ACM ESPRIT Student Chapter
-📬 Contact me:
+
+🎓 I’m a 2nd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
+🔧 Skilled in: Node.js, Express.js, React, MongoDB, Docker, DevOps, Microservices Architecture, UX/UI Design  
+🎨 Passionate about creating user-centric designs and seamless digital experiences  
+🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects  
+💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design  
+👑 Chair of **ACM ESPRIT Student Chapter**  
+📬 **Contact me**:  
 ✉️ chaherdridi@esprit.tn
+
 
 ---
 ## 🌐 Socials:
