@@ -1,5 +1,20 @@
-<h1 align="center">✨ Hey there! I'm Dridi Chaher ✨</h1>
-<h3 align="center">🚀 Future Software Engineer (TWIN)| 🎓 ESPRIT Student | 💡 Tech Enthusiast & Innovator</h3>
+<h1 align="center">
+  <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" font-family="monospace">
+      ✨ Hey there! I'm Dridi Chaher ✨
+      <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</h1>
+
+<h3 align="center">
+  <svg viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="monospace">
+      🚀 Future Software Engineer (TWIN)| 🎓 ESPRIT Student | 💡 Tech Enthusiast & Innovator
+      <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chahe-dridi&label=Profile%20views&color=ff69b4&style=flat-square" alt="chahe-dridi" />
