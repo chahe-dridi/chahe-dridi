@@ -14,7 +14,9 @@
 </p>
  
 ---
- 
+
+<div align="center">
+
 ### 🌟 About Me
 
 🎓 I’m a 2nd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
@@ -27,7 +29,9 @@
 ✉️ chaherdridi@esprit.tn
 
 
+
 ---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007126454925) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaher_dridi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaher-dridi-790b72219/) 
 
@@ -118,7 +122,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-  
+  </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
