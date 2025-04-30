@@ -122,7 +122,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-  </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
@@ -147,3 +147,4 @@
 [![](https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </div>
