@@ -26,7 +26,14 @@
 💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design  
 👑 Chair of **ACM ESPRIT Student Chapter**  
 📬 **Contact me**:  
-✉️ chaherdridi@esprit.tn
+📫 **Email**: [chaherdridi@esprit.tn](mailto:chaherdridi@esprit.tn)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&layout=compact&theme=radical" />
+</p>
 
 
 
