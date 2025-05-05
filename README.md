@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Future+Software+Engineer+(TWIN);🎓+ESPRIT+Student" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Future+Software+Engineer+(TWIN);🎓+ESPRIT+Student" 
+    alt="Intro Typing Animation" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Chair+of+ACM+ESPRIT+Student+Chapter" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Chair+of+ACM+ESPRIT+Student+Chapter" 
+    alt="Extra Roles Typing Animation" 
+  />
 </p>
+
  
 
 
