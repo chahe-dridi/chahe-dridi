@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Chair+of+ACM+ESPRIT+Student+Chapter" alt="Typing SVG" />
 </p>
-
+ 
 
 
 
