@@ -35,7 +35,7 @@
 👑 Chair of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
 
 📬 **Contact me**:  
-📫 **Email**: [chaherdridi@esprit.tn](mailto:chaherdridi@esprit.tn)
+📫 **Email**: [chaher.dridi@esprit.tn](mailto:chaher.dridi@esprit.tn)
 
 
 ---
