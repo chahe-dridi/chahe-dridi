@@ -27,7 +27,7 @@
 
 ### 🌟 About Me
 
-🎓 I’m a 3nd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
+🎓 I’m a 3rd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
 🔧 Skilled in: Node.js, Express.js, React, MongoDB, Docker, DevOps, Microservices Architecture, UX/UI Design  
 🎨 Passionate about creating user-centric designs and seamless digital experiences  
 🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects  
