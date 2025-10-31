@@ -32,7 +32,7 @@
 🎨 Passionate about creating user-centric designs and seamless digital experiences  
 🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects  
 💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design  
-👑 Chair of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
+👑 Former Chair of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
 
 📬 **Contact me**:  
 📫 **Email**: [chaher.dridi@esprit.tn](mailto:chaher.dridi@esprit.tn)
