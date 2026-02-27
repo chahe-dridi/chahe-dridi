@@ -150,9 +150,12 @@
 </div>
 
  
-
+ 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&margin-w=10&margin-h=10)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
