@@ -161,9 +161,16 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chahe-dridi&repo=YOUR_REPO&theme=radical" />
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chahe-dridi&theme=radical" />
+[![Spotify](https://novatorem-chahe-dridi.vercel.app/api/spotify)](https://open.spotify.com) 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chahe-dridi&repo=distributed-web-application-microservice&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chahe-dridi&repo=BOXREADY&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=chahe-dridi&repo=pixelmates-crm-module&theme=radical" />
+</div>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23282a36&textColor=%23ff79c6&aColor=%23ffb86c&borderColor=%236272a4" alt="Jokes Card" />
+</div>
+
  
 ---
 [![](https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
