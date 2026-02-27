@@ -157,10 +157,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-## 📊 GitHub Stats
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=chahe-dridi&show_icons=true&bg_color=00000000&theme=radical)
-![](https://github-contributor-stats.vercel.app/api?username=chahe-dridi&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
 
