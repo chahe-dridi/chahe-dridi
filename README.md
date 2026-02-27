@@ -146,7 +146,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact&langs_count=6" height="160" alt="languages graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5" height="160" alt="donut graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=chahe-dridi&limit=5&theme=radical&combine_all_yearly_contributions=true" height="160" alt="top contributed repos" />
 </div>
 
  
