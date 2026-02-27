@@ -137,17 +137,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false" width="48%" />
-</p>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5)](https://github.com/Pranesh-2005/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5" width="48%" />
-</p>
  
 
 ## 🏆 GitHub Trophies
