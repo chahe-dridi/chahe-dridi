@@ -148,7 +148,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=chahe-dridi&show_icons=true&bg_color=00000000&theme=radical)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
