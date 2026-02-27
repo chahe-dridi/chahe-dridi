@@ -137,12 +137,17 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5)](https://github.com/Pranesh-2005/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5" height="150" alt="donut graph" />
+</div>
 
  
 
