@@ -147,7 +147,7 @@
  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&margin-w=10&margin-h=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
