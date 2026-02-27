@@ -142,7 +142,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
