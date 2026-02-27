@@ -140,16 +140,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false" height="160" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact&langs_count=6" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5" height="200" alt="donut graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact&langs_count=6" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=5" height="160" alt="donut graph" />
 </div>
 
  
