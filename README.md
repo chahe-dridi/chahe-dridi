@@ -144,7 +144,7 @@
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats)
 
-![Chaher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -153,7 +153,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chahe-dridi&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
