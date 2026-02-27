@@ -144,6 +144,8 @@
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&layout=donut&theme=radical&langs_count=8)](https://github.com/Pranesh-2005/github-readme-stats)
 
+![Chaher’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chahe-dridi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
