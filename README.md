@@ -4,7 +4,7 @@
     alt="Typing SVG" 
   />
 </p>
-
+ 
 <p align="center">
   <img 
      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Former+Chair+of+ACM+ESPRIT+Student+Chapter" 
