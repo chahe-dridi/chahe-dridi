@@ -28,10 +28,9 @@
 ### 🌟 About Me
 
 🎓 I’m a 3rd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
-🔧 Skilled in: Node.js, Express.js, React, MongoDB, Docker, DevOps, Microservices Architecture, UX/UI Design  
-🎨 Passionate about creating user-centric designs and seamless digital experiences  
+🔧 Skilled in: Node.js, Express.js, React, MongoDB, .Net, Docker, DevOps, UX/UI Design  
 🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects  
-💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices, Microservices Design  
+💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices
 👑 Former Chair of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
 
 📬 **Contact me**:  
