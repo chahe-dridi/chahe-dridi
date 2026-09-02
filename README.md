@@ -1,39 +1,32 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Future+Software+Engineer+(TWIN);🎓+ESPRIT+Student" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Software+Engineering+Graduate+(TWIN+—+ESPRIT+2026);🛠️+Full+Stack+Developer+%7C+.NET+%7C+React+%7C+DevOps" 
     alt="Typing SVG" 
   />
 </p>
  
 <p align="center">
   <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Former+Chair+of+ACM+ESPRIT+Student+Chapter" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Former+President+%26+Webmaster+—+ACM+ESPRIT+Student+Chapter;🔍+Open+to+Full-Time+Opportunities" 
     alt="Typing SVG" 
   />
 </p>
 
-     
-  
- 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chahe-dridi&label=Profile%20views&color=ff69b4&style=flat-square" alt="chahe-dridi" />
-</p>
  
 ---
+
 
 <div align="center">
 
 ### 🌟 About Me
 
-🎓 I’m a 3rd-year Software Engineering student at **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)**  
-🔧 Skilled in: Node.js, Express.js, React, MongoDB, .Net, Docker, DevOps, UX/UI Design  
-🤝 Open to: Open-source collaboration, Hackathons, and Freelance projects  
-💬 Ask me about: Web Development, Backend Development, UX/UI Design, DevOps Practices
-👑 Former Chair of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
+🎓 Software Engineering graduate from **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)** — Class of 2026  
+🔧 Skilled in: React, ASP.NET Core 8, Node.js, MongoDB, SQL Server, Docker , UX/UI Design, DevOps  
+🤝 Open to: Full-time opportunities, open-source collaboration, and freelance projects  
+💬 Ask me about: Full Stack Development, .NET/React, CI/CD Pipelines, Security Testing, DevOps  
+👑 Former President & Webmaster of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
 
-📬 **Contact me**:  
+📬 **Contact me**: 
 📫 **Email**: [chaher.dridi@esprit.tn](mailto:chaher.dridi@esprit.tn)
 
 
