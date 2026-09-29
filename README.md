@@ -1,165 +1,88 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+Dridi+Chaher+✨;🚀+Software+Engineering+Graduate+(TWIN+—+ESPRIT+2026);🛠️+Full+Stack+Developer+%7C+.NET+%7C+React+%7C+DevOps" 
-    alt="Typing SVG" 
-  />
-</p>
- 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+Tech+Enthusiast+%26+Innovator;👑+Former+President+%26+Webmaster+—+ACM+ESPRIT+Student+Chapter;🔍+Open+to+Full-Time+Opportunities" 
-    alt="Typing SVG" 
-  />
-</p>
-
- 
----
-
-
 <div align="center">
 
-### 🌟 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Chaher+Dridi+%F0%9F%91%8B;Software+Engineer+%E2%80%94+ESPRIT+2026+(TWIN);Full-Stack+%7C+.NET+%7C+React+%7C+DevOps;Open+to+full-time+opportunities" alt="Typing intro" />
 
-🎓 Software Engineering graduate from **ESPRIT**, specializing in **Web and Internet Technologies (TWIN)** — Class of 2026  
-🔧 Skilled in: React, ASP.NET Core 8, Node.js, MongoDB, SQL Server, Docker , UX/UI Design, DevOps  
-🤝 Open to: Full-time opportunities, open-source collaboration, and freelance projects  
-💬 Ask me about: Full Stack Development, .NET/React, CI/CD Pipelines, Security Testing, DevOps  
-👑 Former President & Webmaster of [**ACM ESPRIT Student Chapter**](https://www.facebook.com/acm.esprit)
+<br/>
 
-📬 **Contact me**: 
-📫 **Email**: [chaher.dridi@esprit.tn](mailto:chaher.dridi@esprit.tn)
+<a href="https://chahe-dridi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chahe--dridi.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/chaher-dridi-790b72219/"><img src="https://img.shields.io/badge/LinkedIn-Chaher%20Dridi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:chaher.dridi.100@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+</div>
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007126454925) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaher_dridi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaher-dridi-790b72219/) 
+### 👋 About me
 
-## 💻 Tech Stack
-
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- 🎓 **Software Engineering graduate** from **ESPRIT** (Tunisia), specialization **Web & Internet Technologies (TWIN)**, class of 2026
+- 🏦 Built **production systems for Banque de Tunisie**: procurement, direct-debit and fleet management platforms
+- ⚙️ I like the full path from UI to deploy: **React** front ends, **ASP.NET Core / Spring Boot** APIs, **Docker + CI/CD**, and **security testing** (OWASP ZAP)
+- 👑 Former **Chairman & Webmaster** of the [ACM ESPRIT Student Chapter](https://acm-espritt.vercel.app), and a competitive programmer (TCPC, IEEEXtreme)
+- 🔭 **Open to full-time roles** in full-stack or backend development, on-site or remote
+- 🌍 Languages: Arabic (native), French and English (professional)
 
 ---
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **BanqueBT-AO** · *Banque de Tunisie* | Full-lifecycle tendering (appel d'offres) platform with real-time updates, 7 parallel CI test suites and OWASP ZAP DAST, auto-deployed | React · ASP.NET Core 8 · SQL Server · SignalR · Docker · GitHub Actions · Playwright |
+| **[Nefes](https://nefes.tn/)** | Stop-smoking platform for the Tunisian association fighting lung cancer | React · Spring Boot · PostgreSQL |
+| **Prélèvements Management System** · *Bank* | Direct-debit workflow app used in production | React · ASP.NET Core 8 · SQL Server · Docker · Jenkins · SonarQube |
+| **TheMenuFy** | AI-powered CRM for restaurants | React · Node.js · Express · MongoDB · Python |
+| **[ACM ESPRIT website](https://acm-espritt.vercel.app)** | Official student chapter website | React · Framer Motion · Vercel |
+| **[Tetris Multiplayer](https://buildwithai.onrender.com)** · [code](https://github.com/chahe-dridi/buildwithai/tree/dev) | Real-time multiplayer Tetris | Django · WebSockets · PostgreSQL |
+| **[Script Badge Generator](https://script-badge-generator.vercel.app)** · [code](https://github.com/chahe-dridi/script-badge-generator) | Bulk event-badge generator from spreadsheets | React · Python · Pillow · Pandas |
+| **[Expense Tracker](https://expense-tracker-bay-eight-83.vercel.app)** | Personal finance tracker | React · Supabase |
+
+👉 More projects, screenshots and details on **[my portfolio](https://chahe-dridi.vercel.app/#projects)**.
 
 ---
 
-### 🖥️ Backend Development
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+### 🛠️ Tech stack
+
+**Daily drivers**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,cs,dotnet,java,spring,nodejs,express,py&perline=11" alt="Main languages and frameworks" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,docker,githubactions,jenkins,linux,git,postman,figma&perline=11" alt="Databases and tools" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+</p>
+
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,nextjs,nestjs,django,flask,laravel,symfony,php,c,cpp,sqlite,prisma,maven,sklearn,tensorflow,threejs,unity,vercel&perline=18" alt="Other technologies" />
+</p>
 
 ---
 
-### 🧰 Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+### 📊 GitHub stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chahe-dridi&theme=radical&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&layout=compact&langs_count=8&hide_border=true" height="165" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=chahe-dridi&theme=radical&hide_border=true" height="165" alt="Contribution streak" />
+</div>
 
-### 🧱 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
----
-
-### 🧪 Data Science & ML
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-### 🛠️ Other
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=chahe-dridi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahe-dridi&theme=radical&hide_border=false" height="160" alt="streak graph" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chahe-dridi&theme=radical&hide_border=false&layout=compact&langs_count=6" height="160" alt="languages graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chahe-dridi&theme=radical&utcOffset=1" height="160" alt="productive time" />
-</div>
- 
- 
-## 🏆 GitHub Trophies
-
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=chahe-dridi&theme=radical&no-frame=true&margin-w=4&row=2&column=4" alt="trophies" />
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=3&unique=true" />
-</div>
- 
 ---
-[![](https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  </div>
+<div align="center">
+
+**Let's build something together:** [portfolio](https://chahe-dridi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chaher-dridi-790b72219/) · [email](mailto:chaher.dridi.100@gmail.com) · [Instagram](https://instagram.com/chaher_dridi) · [Facebook](https://www.facebook.com/profile.php?id=100007126454925)
+
+<img src="https://visitcount.itsvg.in/api?id=chahe-dridi&icon=0&color=0" alt="Profile views" />
+
+</div>
