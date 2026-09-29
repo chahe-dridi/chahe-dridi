@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chahe-dridi.vercel.app">
+  <a href="https://dridi-chaher-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Visit_my_Portfolio-chahe--dridi.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -76,7 +76,7 @@ works with **Claude Code**, **aider**, **Gemini CLI**, **Codex CLI**, **Cursor**
 | 🎮 **[Tetris Multiplayer](https://buildwithai.onrender.com)** | Real-time multiplayer Tetris — [code](https://github.com/chahe-dridi/buildwithai/tree/dev) | Django · WebSockets · PostgreSQL |
 | 🏷️ **[Badge Generator](https://script-badge-generator.vercel.app)** | Bulk event-badge generator from spreadsheets — [code](https://github.com/chahe-dridi/script-badge-generator) | React · Python · Pillow · Pandas |
 
-👉 **See all projects with screenshots on [my portfolio](https://chahe-dridi.vercel.app/#projects)**
+👉 **See all projects with screenshots on [my portfolio](https://dridi-chaher-portfolio.vercel.app/#projects)**
 
 <br/>
 
